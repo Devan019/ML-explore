@@ -1,0 +1,16 @@
+name,score,city,placement
+Aarav,85.6,Delhi,1
+Isha,,Mumbai,0
+Rohan,91.2,,1
+Meera,67.8,Pune,
+Kabir,88.5,Hyderabad,1
+Simran,NaN,Chennai,1
+Arjun,59.3,Kolkata,0
+,82.1,Delhi,1
+Dev,94.7,Bangalore,1
+Ritika,63.5,,0
+Kunal,78.4,Pune,1
+Neha,81.9,Hyderabad,NaN
+Raj,55.2,Chennai,0
+Priya,,Kolkata,1
+Aditya,69.4,Delhi,0
